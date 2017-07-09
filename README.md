@@ -26,7 +26,7 @@ Press any key to continue . . .
 
 1. _Fork_ this repository. This will create a copy (fork) of the repo in your own
 account.
-2. _Clone_ your fork to your local machine. (Github gives you instructions for this when 
+2. _Clone_ your fork to your local machine.
 3. Open the project in VS and complete the assignment.
 4. _Commit_ your work in git locally, and _push_ your solution back up to
 Github.
