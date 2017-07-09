@@ -31,4 +31,4 @@ account.
 4. _Commit_ your work in git locally, and _push_ your solution back up to
 Github.
 
-Good luck!
+Don't forget to check the C++ language reference; [this page may be useful](http://www.cplusplus.com/doc/tutorial/classes/). Good luck!
